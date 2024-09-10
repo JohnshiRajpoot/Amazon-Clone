@@ -1,0 +1,341 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box; 
+}
+
+.navbar {
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 100px;
+}
+
+
+.logo {
+    background-image: url("al.png");
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+    background-repeat: no-repeat; 
+}
+
+.border {
+    border: 2px solid transparent;
+
+}
+
+.panel-deals a {
+    color: white;
+}
+
+
+.border:hover {
+    border: 2px solid white;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.add-first {
+    color: #cccccc;
+    font-size: 0.8rem;
+    margin-left: 15px;
+}
+
+.add-second {
+    color: white;
+    font-size: 1rem;
+    margin-left: 5px;
+}
+
+.add-icon {
+    display: flex;
+    align-items: center;
+}
+
+.nav-search {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: pink;
+    width: 820px;
+    height: 40px;
+    border-radius: 5px;    
+    justify-content: space-evenly;
+}
+
+.search-select {
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius:4px ;
+    border: none;
+}
+
+.search-input {
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+
+.search-icon {
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color: #febd68;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    color: #0f1111;
+}
+
+.nav-search:hover {
+    border: 3px solid orange;
+}
+
+span {
+    font-size: 0.7rem;
+}
+
+.badi {
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.cart i {
+    font-size: 30px;
+}
+
+.cart {
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+.panel {
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.panel-ops p {
+    display: inline;
+    margin-left: 15px;
+
+}
+
+.panel-ops {
+    width: 80%;
+    font-size: 0.85rem;
+}
+
+.panel-deals {
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+
+
+
+/**hero section**/
+
+.hero-section {
+    background-image: url(hero_image.jpg);
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    
+}
+
+.hero-message {
+    background-color: white;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 0.85rem;
+    width: 97%;
+    margin-bottom: 25px;
+}
+
+.hero-message a {
+    color: #007185;
+}
+
+
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+
+
+.box{
+    margin-top: 20px;
+    height: 400px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+}
+
+
+.panel-ops a {
+    color: white;
+}
+
+
+.box-img {
+    height: 320px;
+    margin-top: 1rem;
+    margin-bottom: 1.3rem;
+    background-size: cover;
+    
+
+}
+.box-content {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.box-content p {
+    color: #007185;
+    margin: 10px;
+}
+
+ 
+/** Footer Space **/
+
+.white {
+    height: 300px;
+    width: 100%;
+    background-color: #e2e7e6;
+}
+
+.bt {
+    height: 50px;
+    background-color: #37475a;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
+
+.bt a {
+    color: white;
+}
+.panel2 {
+    background-color: #222f3d;
+    color: white;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul p {
+    font-weight: 600;
+}
+
+ul a {
+    display: block;
+    font-size: 0.9rem;
+    color: #dddddd;
+    margin-top: 10px;
+}
+
+.linelu {
+    background-color:#222f3d;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.boxo{
+    display: flex;
+    margin-left: 100px;
+}
+
+.boxi {
+    border: 1px solid white;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 3px;
+    color: whitesmoke;
+    font-size: 0.8rem;
+
+}
+
+
+.linelu logo {
+    margin-right: 50px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+.last {
+    background-color: #222f3d;
+    height: 50px;
+    color: rgb(163, 160, 160);
+    display: flex;
+    font-size: 0.85rem;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.socials {
+    background-color: #37475a;
+    height: 75px;
+    font-size: 1.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.socials a {
+    color: #f3f3f3;
+    font-size: 3rem;
+    margin-left: 25px;
+}
+
+.last p {
+    margin: 15px;
+}
+
+.last span {
+    font-size: 1rem;
+    font-weight: 700;
+}
