@@ -9,6 +9,9 @@ You can view the live website here: https://amazon-clone-omega-mocha.vercel.app/
 
 **ScreenShots Of The Project:**
 ![Project screenshot](am1.png)
+![Project screenshot](am2.png)
+![Project screenshot](am3.png)
+
 
 
 
