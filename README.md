@@ -1,6 +1,7 @@
 #  Amazon Website Clone
 
 This repository contains the code for a website replicating the look and feel of Amazon, built using HTML and CSS.
+A number of links embedded into the project enable the visitors to go to the available website of amazon.com providing a ringside view and makes it very real.
 
 **Deployed Link**
 
