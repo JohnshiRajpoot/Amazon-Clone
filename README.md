@@ -2,12 +2,9 @@
 
 This repository contains the code for a website replicating the look and feel of Amazon, built using HTML and CSS.
 
-
 **Deployed Link**
 
 You can view the live website here: https://amazon-clone-omega-mocha.vercel.app/
-
-
 
 **Project Structure**
 
@@ -16,13 +13,11 @@ The project files are organized as follows:
 2. styles.css: The CSS file containing styles for the website's appearance.
 
 
-
 **Running Locally**
 
 Prerequisites:
 1. A code editor (e.g., Visual Studio Code, Sublime Text)
 2. A web browser (e.g., Chrome, Firefox, Safari)
-
 
 **Steps:**
 
@@ -43,7 +38,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 6. We appreciate any contributions that improve this project.
 
    
-
 **Contact**
 
 If you have any questions about this project, feel free to open an issue on this repository.
