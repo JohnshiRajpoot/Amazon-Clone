@@ -1,2 +1,3 @@
 # Amazon-Clone
-Created Amazon using HTML &amp; CSS
+Created Amazon Website using HTML & CSS.
+Deployed Link: https://amazon-clone-omega-mocha.vercel.app/
