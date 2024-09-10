@@ -7,6 +7,11 @@ A number of links embedded into the project enable the visitors to go to the ava
 
 You can view the live website here: https://amazon-clone-omega-mocha.vercel.app/
 
+**ScreenShots Of The Project:**
+![Project screenshot](am1.png)
+
+
+
 **Project Structure**
 
 The project files are organized as follows:
