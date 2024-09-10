@@ -30,7 +30,8 @@ If you'd like to contribute to this project, feel free to fork the repository an
 3. Make your changes and commit them.
 4. Push your changes to your forked repository.
 5. Open a pull request from your forked repository to the main branch of this repository.   
-6. We appreciate any contributions that improve this project
+6. We appreciate any contributions that improve this project.
+   
 
 **Contact**
 If you have any questions about this project, feel free to open an issue on this repository.
@@ -45,4 +46,3 @@ If you have any questions about this project, feel free to open an issue on this
 
 
 
-Gemini may display inaccurate info, including about people, s
